@@ -1,4 +1,8 @@
 hi
 second
 first
+<<<<<<< Updated upstream
 third
+=======
+fourth
+>>>>>>> Stashed changes
