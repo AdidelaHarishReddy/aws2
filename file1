@@ -1,8 +1,5 @@
 hi
 today first line
-<<<<<<< Updated upstream
 this is stash line
-=======
 this is second line
-
->>>>>>> Stashed changes
+this is third line
