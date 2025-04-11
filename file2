@@ -1,0 +1,8 @@
+#!/bin/bash
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.model.JenkinsLocationConfiguration>
+  <jenkinsUrl>$(curl -s "checkip.amazonaws.com")</jenkinsUrl>
+</jenkins.model.JenkinsLocationConfiguration>
+sudo systemctl stop jenkins
+sudo systemctl start jenkins
+
